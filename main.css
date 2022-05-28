@@ -1,0 +1,33 @@
+body {
+    background-color: var(--primary-white-color);
+
+    font-family: Roboto, sans-serif ;
+}
+
+button {
+    font-family: inherit;
+}
+
+.hero-title {
+    color: var(--title-text-color);
+font-style: normal;
+font-weight: 900;
+font-size: 44px;
+line-height: 1,36;
+}
+
+section-title {
+    color: var(--title-text-color);
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 2;
+
+}
+
+.feature-list.text{
+    font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 1,87
+}
