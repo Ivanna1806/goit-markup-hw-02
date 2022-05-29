@@ -1,3 +1,6 @@
+:root{
+    --header-color:  #212121;
+}
 body {
     background-color: var(--primary-white-color);
 
@@ -16,7 +19,7 @@ font-size: 44px;
 line-height: 1,36;
 }
 
-section-title {
+section-list.text {
     color: var(--title-text-color);
 font-style: normal;
 font-weight: 700;
